@@ -1,18 +1,18 @@
 {
     "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
+    "messagePrefix": "SXP message:\n",
     "bip32": {
         "public": 46090600,
         "private": 46089520
     },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
+    "pubKeyHash": 63,
+    "nethash": "431b39fbefcff5915a6caaa6d56b2277e67514a29ac52e41814224dfb232e8e5",
+    "wif": 99,
     "slip44": 111,
     "aip20": 0,
     "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
+        "token": "SXP",
+        "symbol": "SXP",
+        "explorer": "http://explorer.swipechain.org"
     }
 }

@@ -1,5 +1,5 @@
 {
-    "name": "swipechain/crypto-networks",
+    "name": "@arkecosystem/crypto-networks",
     "version": "1.2.0",
     "description": "Network configurations for the Swipe Blockchain. Developed for TypeScript.",
     "license": "MIT",
